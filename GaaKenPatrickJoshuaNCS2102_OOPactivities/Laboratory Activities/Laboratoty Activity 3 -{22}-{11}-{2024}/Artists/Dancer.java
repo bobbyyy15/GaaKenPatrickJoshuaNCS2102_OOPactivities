@@ -31,7 +31,7 @@ public class Dancer extends Artist {
     }
 
     public static void main(String[] args) {
-        Dancer dancer = new Dancer("Misty Copeland", "American", 41, "Dance", DanceStyle.BALLET);
+        Dancer dancer = new Dancer("DJ Loonyo", "Filipino", 28, "Dance", DanceStyle.HIPHOP);
         dancer.displayInfo();
     }
 }
